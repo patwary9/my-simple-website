@@ -1,5 +1,5 @@
 div{
-    font-size: 25px;
+    font-size: 15px;
     color: aqua;
     background-color: blueviolet;
     font-family: 'Courier New', Courier, monospace;
@@ -7,4 +7,5 @@ div{
     border: 8px solid black;
     font-style: italic;
     border-radius: 25px;
+    margin-bottom: 8px;
 }
