@@ -1,0 +1,10 @@
+div{
+    font-size: 25px;
+    color: aqua;
+    background-color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    padding:12px;
+    border: 8px solid black;
+    font-style: italic;
+    border-radius: 25px;
+}
